@@ -1,4 +1,4 @@
-[photo](https://github.com/hamzza-K/hamzza.github.io/issues/1#issue-675560241)
+
 
 ## Welcome to GitHub Pages
 
