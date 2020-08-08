@@ -1,3 +1,5 @@
+[photo](https://github.com/hamzza-K/hamzza.github.io/issues/1#issue-675560241)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hamzza-K/hamzza.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
