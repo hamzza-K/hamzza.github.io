@@ -20,11 +20,12 @@ Currently there are only
 
 - **Account getting locked-out**
 
-
+![Dashboard Form](/images/loginform.png)
 
 Inserting wrong password thrice can get your account locked, which may take several minutes or hours in some cases to retrieve it. Now, imagine a scenario where at a particular time, all agents get locked out of their accounts (using just a simple python script); **_Catastrophic!_**, the amount of damage it would cause us would be unfathomable.
 From the inception of our company, we have acquired over 10000+ clients by sheer hardwork and being persistence which is in itself is commendable but as we thrive and climb up the ropes the more we get in the radar of other competitors. Knowing man, one can do everything in their might to exploit and bring the other down.
 
+![Insecure Warning](/images/warning.png)
 
 Our web applications e.g web3 & web2 run on insecure connections which can easily be prone to MiTM (man in the middle attack) to hijack any data we send between the server and vice-versa. 
 According to the statistics, 43% of cyber attacks target small business. 64% of companies have experienced web-based attacks.  [62% experienced phishing & social engineering attacks](https://www.fundera.com/resources/small-business-cyber-security-statistics). 59% of companies experienced malicious code and botnets and 51% experienced denial of service attacks. Thus, it should be our priority to secure these sites.
