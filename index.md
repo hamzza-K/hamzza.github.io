@@ -16,7 +16,7 @@ Agents monitoring the routed chats sometimes pitch in statements to engange the 
 Currently there are only 
 
 
-# Security Issues
+# Security and Privacy Issues
 
 - **Account getting locked-out**
 
@@ -28,4 +28,12 @@ From the inception of our company, we have acquired over 10000+ clients by sheer
 ![Insecure Warning](/images/warning.png)
 
 Our web applications e.g web3 & web2 run on insecure connections which can easily be prone to MiTM (man in the middle attack) to hijack any data we send between the server and vice-versa. 
-According to the statistics, 43% of cyber attacks target small business. 64% of companies have experienced web-based attacks.  [62% experienced phishing & social engineering attacks](https://www.fundera.com/resources/small-business-cyber-security-statistics). 59% of companies experienced malicious code and botnets and 51% experienced denial of service attacks. Thus, it should be our priority to secure these sites.
+According to the statistics, 43% of cyber attacks target small business. [64% of companies have experienced web-based attacks](https://www.fundera.com/resources/small-business-cyber-security-statistics). 62% experienced phishing & social engineering attack. 59% of companies experienced malicious code and botnets and 51% experienced denial of service attacks. Thus, it should be our priority to secure these sites.
+
+- **Visitor's contact details**
+
+Apparently there is a hashing algorithm used which covers visitor's phone number and email but there are a few ways from which we can easily retrieve visitor's data.
+1. Using Export option in history feature.
+![export](/images/exportdata.PNG)
+Visitor's data e.g name, email and phone number is stored inside an excel sheet. By clicking on the cell, you can easily see the phone number.
+![decrypted](/images/decrypteddata.PNG)
