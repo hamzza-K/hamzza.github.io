@@ -33,13 +33,15 @@ Currently, there is only one option (Enable/Disable sound) for every chat that a
 
 Scenario: Sometimes a visitor comes back to a new chat right after finishing/ending the previous one saying, "call disconnected, please connect me again". it is optimal to connect them right away instead of asking about their location. But when it we send the lead, the system makes it mandatory to insert in the location even though the visitor did not provide it and most importantly, the option is not clicked. Forcefully, we have to insert some text to send the lead.
 
-![keyfacts](/images/keyfacts required.PNG)
+![keyfacts](/images/keys.PNG)
 
 * Refreshing a chat
 
 ![refreshing1](/images/refreshingachatp1.PNG)
 
+
 We use refresh features to automatically add visitor's responses, email and phone number _when_ they are in the format i.e encrypted. But when they are not, we have to fill in the cells manually. Also, visitor's name gets removed everytime the chat is refreshed. 
+
 
 ![refreshing2](/images/refreshingachatp2.PNG)
 
@@ -79,7 +81,7 @@ Visitor's data e.g name, email and phone number is stored inside an excel sheet.
 
 ![translate](/images/translate.png)
 
-Rarely, clicking the feature translates an English chat to English which repeats every statement said by the visitor and agent except the contact detail do not get encrypted and can be shown. (I used the word "rarely" since in most cases I've seen, translate feature translates English chats to English when visitor provides with a wrong/correct zip/postal code or scribbles untangible words)
+Rarely, clicking the feature translates an English chat to English which repeats every statement said by the visitor and agent except that the contact details do not get encrypted and can be shown. (I used the word "rarely" since in most cases I've seen, translate feature translates English chats to English when visitor provides with a wrong/correct zip/postal code or scribbles untangible words)
 
 3. Intercepting our insecure web2 and web3 applications
 
