@@ -7,7 +7,7 @@
 
 ![logging messages](/images/loggingmessages.png)
 
-Agents monitoring the routed chats sometimes pitch in statements to engange the visitor till the actual owner of the chat picks it up and once in a while, they are constrained to end the chat. The responses sent in the chat cannot be distinguished whether they were sent by the actual owner or the agent monitoring chats which ensue complications in Chat quality and handling reports (One of my chat reviewed were of such case; I did not handle the whole chat and it affected the overall rating). It would be better to add a functionality which can identify the reponses.
+Agents monitoring the routed chats sometimes pitch in statements to engange the visitor till the actual owner of the chat picks it up and once in a while, they are constrained to end the chat. The responses sent in the chat cannot be distinguished whether they were sent by the actual owner or the agent monitoring chats which ensue complications in chat quality and handling reports (one of my chats reviewed were of such case; I did not handle the whole chat and it affected the overall rating). It would be better to add a functionality which can identify the reponses.
 
 
 - **Adding more features**
@@ -32,8 +32,17 @@ According to the statistics, 43% of cyber attacks target small business. [64% of
 
 - **Visitor's contact details**
 
-Apparently there is a hashing algorithm used which covers visitor's phone number and email but there are a few ways from which we can easily retrieve visitor's data.
-1. Using Export option in history feature.
+Apparently, there is an encrypting algorithm (which sometimes glitches and encrypts the zip/postal code) used which covers visitor's phone number and email but there are a few ways from which we can easily retrieve visitor's data.
+1. Using Export option in history feature
 ![export](/images/exportdata.PNG)
+
 Visitor's data e.g name, email and phone number is stored inside an excel sheet. By clicking on the cell, you can easily see the phone number.
+
 ![decrypted](/images/decrypteddata.PNG)
+
+2. Translate Feature
+[translate](/images/translate.png)
+
+Rarely, clicking the feature translates an English chat to English which repeats every statement said by the visitor and agent except the contact detail do not get encrypted and can be shown. (I used the word "rarely" since in most cases I've seen, translate feature translates English chats to English when visitor provides with a wrong/correct zip/postal code or scribbles untangible words)
+
+
