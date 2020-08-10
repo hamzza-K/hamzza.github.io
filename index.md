@@ -24,6 +24,7 @@ Agents monitoring the routed chats sometimes pitch in statements to engange the 
 
 Currently, there is only one option (Enable/Disable sound) for every chat that appears i.e routing and new. Consider a common scenario where some agents gets disconnected due to internet issues. Their chats would start routing and at the same time some new chats get assigned to you but you are currently handling 10 chats (after 6/7 chats, you need to scroll to the right to see the remaining chats; depending on the screen width). There is a probability that those chats were easy sales but due to the high response time, they leave the chat. Also, constantly hearing the same sound is nerve-wrecking (when you are already tired).
 
+> Also why do we have an option to "turn on visitor's response in real time"? this option is equivalent to "You have two legs, but you can walk with one"
 
 - **Tweaking some of the features to Improve efficiency**
 
@@ -31,7 +32,7 @@ Currently, there is only one option (Enable/Disable sound) for every chat that a
 
 ![address](/images/addresslocationnull.PNG)
 
-Scenario: Sometimes a visitor comes back to a new chat right after finishing/ending the previous one saying, "call disconnected, please connect me again". it is optimal to connect them right away instead of asking about their location. But when it we send the lead, the system makes it mandatory to insert in the location even though the visitor did not provide it and most importantly, the option is not clicked. Forcefully, we have to insert some text to send the lead.
+Scenario: Sometimes a visitor comes back to a new chat right after finishing/ending the previous one saying, "call disconnected, please connect me again". It is optimal to connect them right away instead of asking about their location. But when it we send the lead, the system makes it mandatory to insert in the location even though the visitor did not provide it and most importantly, the option is not clicked. Forcefully, we have to insert some text to send the lead.
 
 ![keyfacts](/images/keys.PNG)
 
