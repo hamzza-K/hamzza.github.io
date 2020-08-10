@@ -6,7 +6,7 @@
 
 
 # DashBoard Enhancements
-
+> I made this report based solely on my own observations and taking feedback from other agents that I know. Some points written may contradict.
 
 - **logging each message sent by an agent**
 
@@ -24,7 +24,7 @@ Agents monitoring the routed chats sometimes pitch in statements to engange the 
 
 Currently, there is only one option (Enable/Disable sound) for every chat that appears i.e routing and new. Consider a common scenario where some agents gets disconnected due to internet issues. Their chats would start routing and at the same time some new chats get assigned to you but you are currently handling 10 chats (after 6/7 chats, you need to scroll to the right to see the remaining chats; depending on the screen width). There is a probability that those chats were easy sales but due to the high response time, they leave the chat. Also, constantly hearing the same sound is nerve-wrecking (when you are already tired).
 
-> Also why do we have an option to "turn on visitor's response in real time"? this option is equivalent to "You have two legs, but you can walk with one"
+> Also, why do we have an option to "turn on visitor's response in real time"? this option is equivalent to "You have two legs, but you can walk with one"
 
 - **Tweaking some of the features to Improve efficiency**
 
@@ -46,11 +46,15 @@ We use refresh features to automatically add visitor's responses, email and phon
 
 ![refreshing2](/images/refreshingachatp2.PNG)
 
+* Removing Auto-responses
+
+From what I've heard on the floor, handful of the agents are vary of auto-repsonses as they mess up their chats. I, from my experience, go against this feature (I had a chat where a 'must say' question was asked right in the beginning before getting assigned. Visitor ignored that must say and proceeded with the chat. At nigh end of the chat, I asked the same 'must ask' question to remove any confusion _But_ to my dismay, that 'must ask' had three auto-responses.. repeating every other statement that I pitched in the chat making the visitor aggravated in the end).
 
 # Lumin the bot
 
 In order to obtain maximum efficiency, I strongly believe that every task that can be automated, should be automated, and Lumin could greatly help us in that motive.
 
+![lumin](/images/LUMIN.png)
 
 
 # Security and Privacy Issues
