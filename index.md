@@ -54,7 +54,7 @@ From what I've heard on the floor, handful of the agents are vary of auto-repson
 
 In order to obtain maximum efficiency, I strongly believe that every task that can be automated, should be automated, and Lumin could greatly help us in that motive.
 
-![lumin](/images/LUMIN.png)
+![lue](/images/luem.png)
 
 
 # Security and Privacy Issues
