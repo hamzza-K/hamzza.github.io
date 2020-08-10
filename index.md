@@ -6,7 +6,7 @@
 
 
 # DashBoard Enhancements
-> I made this report based solely on my own observations and taking feedback from other agents that I know. Some points written may contradict.
+> I made this report based solely on my own observations and taking feedback from other agents that I know.
 
 - **logging each message sent by an agent**
 
