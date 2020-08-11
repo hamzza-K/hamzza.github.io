@@ -58,7 +58,7 @@ In order to obtain maximum efficiency, I strongly believe that every task that c
 
 ![interested](/images/interestedinyour.png)
 
-I have trained a model that can demonstrate how simple sentences can be classified. You can view the output [here](https://www.kaggle.com/hamzzak/vanillaluminclassifier) `I tried but couldn't upload the weights of my model directly onto the notebook database, hence it will take you time to train the model in colab`. To run and interact with the model, please [click here](https://colab.research.google.com/drive/1y0Xdo-zKHfu_zA-AZRWnGkw8aNHImbiB?usp=sharing). The actual source-code can be found [here](/images/vanillaClassifier.py). 
+I have trained a model that can demonstrate how simple sentences can be classified. You can view the output [here](https://www.kaggle.com/hamzzak/vanillaluminclassifier) `I tried but couldn't upload the weights of my model directly onto the notebook database, hence it will take you time to train the model in colab`. To run and interact with the model, please [click here](https://colab.research.google.com/drive/1y0Xdo-zKHfu_zA-AZRWnGkw8aNHImbiB?usp=sharing). The actual source-code can be found [here](/vanillaClassifier.py). 
 The chats we do are a valuble source of data that can be fed to NNs to produce fruitful outcomes. 
 
 # Security and Privacy Issues
