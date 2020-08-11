@@ -83,7 +83,10 @@ Apparently, there is an encrypting algorithm (which sometimes glitches and encry
 ![export](/images/exportdata.PNG)
 
 > along with some other features, Is there any use for this Export feature?
+
+
 Visitor's data e.g name, email and phone number is stored inside an excel sheet. By clicking on the cell, you can easily see the phone number.
+
 
 ![decrypted](/images/decrypteddata.PNG)
 
@@ -105,4 +108,4 @@ Tools like Burpsuite or wireshark can easily retrieve any packets containing sen
 
 ##                                                                      Let Me Join!
 
-I want to be a part of the awesome team that put forth all these new features. I want to see and experience how things work behind the scenes. But most importantly, I want to help so that our agents can work with conveniently and with efficiency. 
+I want to be a part of the awesome team that put forth new features. I want to see and experience how things work behind the scenes. But most importantly, I want to help so that our agents can work conveniently and efficiently. 
