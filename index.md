@@ -77,11 +77,12 @@ According to the statistics, 43% of cyber attacks target small business. [64% of
 
 ### Visitor's contact details
 
-Apparently, there is an encrypting algorithm (which sometimes glitches and encrypts the zip/postal code) used which covers visitor's phone number and email but there are a few ways from which we can easily retrieve visitor's data.
+Apparently, there is an encrypting algorithm (which sometimes glitches and encrypts the dates/zip/postal code) used which covers visitor's phone number and email but there are a few ways from which we can easily retrieve visitor's data.
 ###### 1. Using Export option in history feature
 
 ![export](/images/exportdata.PNG)
 
+> along with some other features, Is there any use for this Export feature?
 Visitor's data e.g name, email and phone number is stored inside an excel sheet. By clicking on the cell, you can easily see the phone number.
 
 ![decrypted](/images/decrypteddata.PNG)
