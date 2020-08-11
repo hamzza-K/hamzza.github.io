@@ -1,1 +1,3 @@
 
+def nothing():
+  pass
