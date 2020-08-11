@@ -18,7 +18,7 @@ Agents monitoring the routed chats sometimes pitch in statements to engange the 
 
 ### **Adding more features**
 
-###### Different Sound for every new Chat assigned to us
+#### Different Sound for every new Chat assigned to us
 
 ![show](/images/showvisitorresponseinrealtime.png)
 
@@ -28,7 +28,7 @@ Currently, there is only one option (Enable/Disable sound) for every chat that a
 
 ### **Tweaking some of the features to Improve efficiency**
 
-###### Fixing the Address/location tree in chats
+#### Fixing the Address/location tree in chats
 
 ![address](/images/addresslocationnull.PNG)
 
@@ -36,7 +36,7 @@ Scenario: Sometimes a visitor comes back to a new chat right after finishing/end
 
 ![keyfacts](/images/keys.PNG)
 
-###### Refreshing a chat
+#### Refreshing a chat
 
 ![refreshing1](/images/refreshingachatp1.PNG)
 
@@ -46,7 +46,7 @@ We use refresh features to automatically add visitor's responses, email and phon
 
 ![refreshing2](/images/refreshingachatp2.PNG)
 
-###### Removing Auto-responses
+#### Removing Auto-responses
 
 From what I've heard on the floor, handful of the agents are vary of auto-repsonses as they mess up their chats. I, from my experience, go against this feature. `I had a chat where a 'must say' question was asked right in the beginning before getting assigned. Visitor ignored that must say and proceeded with the chat. At nigh end of the chat, I asked the same 'must ask' question to remove any confusion but to my dismay, that 'must ask' had three auto-responses.. repeating every other statement that I pitched in the chat making the visitor aggravated in the end`.
 
@@ -78,7 +78,7 @@ According to the statistics, 43% of cyber attacks target small business. [64% of
 ### Visitor's contact details
 
 Apparently, there is an encrypting algorithm (which sometimes glitches and encrypts the dates/zip/postal code) used which covers visitor's phone number and email but there are a few ways from which we can easily retrieve visitor's data.
-###### 1. Using Export option in history feature
+#### 1. Using Export option in history feature
 
 ![export](/images/exportdata.PNG)
 
@@ -90,13 +90,13 @@ Visitor's data e.g name, email and phone number is stored inside an excel sheet.
 
 ![decrypted](/images/decrypteddata.PNG)
 
-###### 2. Translate Feature
+#### 2. Translate Feature
 
 ![translate](/images/translate.png)
 
 Rarely, clicking the feature translates an English chat to English which repeats every statement said by the visitor and agent except that the contact details do not get encrypted and can be shown. (I used the word "rarely" since in most cases I've seen, translate feature translates English chats to English when visitor provides with a wrong/correct zip/postal code or scribbles untangible words)
 
-###### 3. Intercepting our insecure web2 and web3 applications
+#### 3. Intercepting our insecure web2 and web3 applications
 
 ![wireshark](/images/wireshark.png)
 
