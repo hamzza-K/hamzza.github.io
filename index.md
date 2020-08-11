@@ -8,7 +8,7 @@
 # DashBoard Enhancements
 > I made this report based solely on my own observations and taking feedback from other agents that I know.
 
-- **logging each message sent by an agent**
+### **logging each message sent by an agent**
 
 
 ![logging messages](/images/loggingmessages.png)
@@ -16,9 +16,9 @@
 Agents monitoring the routed chats sometimes pitch in statements to engange the visitor till the actual owner of the chat picks it up and once in a while, they are constrained to end the chat. The responses sent in the chat cannot be _distinguished_ whether they were sent by the actual owner or the agent monitoring chats which ensue complications in _chat quality_ and _handling reports_ (one of my chats reviewed were of such case; I did not handle the whole chat and it affected the overall rating). It would be better to add a functionality which can _identify_ the reponses.
 
 
-- **Adding more features**
+### **Adding more features**
 
-* Different Sound for every new Chat assigned to us
+###### Different Sound for every new Chat assigned to us
 
 ![show](/images/showvisitorresponseinrealtime.png)
 
@@ -26,9 +26,9 @@ Currently, there is only one option (Enable/Disable sound) for every chat that a
 
 > Also, why do we have an option to "turn on visitor's response in real time"? this option is equivalent to "You have two legs, but you can walk with one"
 
-- **Tweaking some of the features to Improve efficiency**
+### **Tweaking some of the features to Improve efficiency**
 
-* Fixing the Address/location tree in chats 
+###### Fixing the Address/location tree in chats
 
 ![address](/images/addresslocationnull.PNG)
 
@@ -36,7 +36,7 @@ Scenario: Sometimes a visitor comes back to a new chat right after finishing/end
 
 ![keyfacts](/images/keys.PNG)
 
-* Refreshing a chat
+###### Refreshing a chat
 
 ![refreshing1](/images/refreshingachatp1.PNG)
 
@@ -46,7 +46,7 @@ We use refresh features to automatically add visitor's responses, email and phon
 
 ![refreshing2](/images/refreshingachatp2.PNG)
 
-* Removing Auto-responses
+### Removing Auto-responses
 
 From what I've heard on the floor, handful of the agents are vary of auto-repsonses as they mess up their chats. I, from my experience, go against this feature (I had a chat where a 'must say' question was asked right in the beginning before getting assigned. Visitor ignored that must say and proceeded with the chat. At nigh end of the chat, I asked the same 'must ask' question to remove any confusion _But_ to my dismay, that 'must ask' had three auto-responses.. repeating every other statement that I pitched in the chat making the visitor aggravated in the end).
 
@@ -59,7 +59,7 @@ In order to obtain maximum efficiency, I strongly believe that every task that c
 
 # Security and Privacy Issues
 
-- **Account getting locked-out**
+### Account getting locked-out
 
 ![Dashboard Form](/images/loginform.png)
 
@@ -71,10 +71,10 @@ From the inception of our company, we have acquired over 10000+ clients by sheer
 Our web applications e.g web3 & web2 run on insecure connections which can easily be prone to MiTM (man in the middle attack) to hijack any data we send between the server and vice-versa. 
 According to the statistics, 43% of cyber attacks target small business. [64% of companies have experienced web-based attacks](https://www.fundera.com/resources/small-business-cyber-security-statistics). 62% experienced phishing & social engineering attack. 59% of companies experienced malicious code and botnets and 51% experienced denial of service attacks. Thus, it should be our priority to secure these sites.
 
-- **Visitor's contact details**
+### Visitor's contact details
 
 Apparently, there is an encrypting algorithm (which sometimes glitches and encrypts the zip/postal code) used which covers visitor's phone number and email but there are a few ways from which we can easily retrieve visitor's data.
-1. Using Export option in history feature
+###### 1. Using Export option in history feature
 
 ![export](/images/exportdata.PNG)
 
@@ -82,13 +82,13 @@ Visitor's data e.g name, email and phone number is stored inside an excel sheet.
 
 ![decrypted](/images/decrypteddata.PNG)
 
-2. Translate Feature
+###### 2. Translate Feature
 
 ![translate](/images/translate.png)
 
 Rarely, clicking the feature translates an English chat to English which repeats every statement said by the visitor and agent except that the contact details do not get encrypted and can be shown. (I used the word "rarely" since in most cases I've seen, translate feature translates English chats to English when visitor provides with a wrong/correct zip/postal code or scribbles untangible words)
 
-3. Intercepting our insecure web2 and web3 applications
+###### 3. Intercepting our insecure web2 and web3 applications
 
 ![wireshark](/images/wireshark.png)
 
