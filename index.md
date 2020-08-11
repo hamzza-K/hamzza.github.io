@@ -32,7 +32,7 @@ Currently, there is only one option (Enable/Disable sound) for every chat that a
 
 ![address](/images/addresslocationnull.PNG)
 
-Scenario: Sometimes a visitor comes back to a new chat right after finishing/ending the previous one saying, "call disconnected, please connect me again". It is optimal to connect them right away instead of asking about their location. But when it we send the lead, the system makes it mandatory to insert in the location even though the visitor did not provide it and most importantly, the option is not clicked. Forcefully, we have to insert some text to send the lead.
+Scenario: Sometimes a visitor comes back to a new chat right after finishing/ending the previous one saying, "call disconnected, please connect me again". It is optimal to connect them right away instead of asking about their complete address and location again. But when we send the lead, the system makes it mandatory to insert in the location even though the visitor did not provide it and most importantly, the option is not clicked. Forcefully, we have to insert some text to send the lead.
 
 ![keyfacts](/images/keys.PNG)
 
@@ -46,9 +46,9 @@ We use refresh features to automatically add visitor's responses, email and phon
 
 ![refreshing2](/images/refreshingachatp2.PNG)
 
-### Removing Auto-responses
+###### Removing Auto-responses
 
-From what I've heard on the floor, handful of the agents are vary of auto-repsonses as they mess up their chats. I, from my experience, go against this feature (I had a chat where a 'must say' question was asked right in the beginning before getting assigned. Visitor ignored that must say and proceeded with the chat. At nigh end of the chat, I asked the same 'must ask' question to remove any confusion _But_ to my dismay, that 'must ask' had three auto-responses.. repeating every other statement that I pitched in the chat making the visitor aggravated in the end).
+From what I've heard on the floor, handful of the agents are vary of auto-repsonses as they mess up their chats. I, from my experience, go against this feature. `I had a chat where a 'must say' question was asked right in the beginning before getting assigned. Visitor ignored that must say and proceeded with the chat. At nigh end of the chat, I asked the same 'must ask' question to remove any confusion but to my dismay, that 'must ask' had three auto-responses.. repeating every other statement that I pitched in the chat making the visitor aggravated in the end`.
 
 # Lumin the bot
 
