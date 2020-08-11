@@ -56,6 +56,10 @@ In order to obtain maximum efficiency, I strongly believe that every task that c
 
 ![lue](/images/luem.png)
 
+![interested](/images/interestedinyour.png)
+
+I have trained a model that can demonstrate how simple sentences can be classified. You can view the output [here](https://www.kaggle.com/hamzzak/vanillaluminclassifier) `I tried but couldn't upload the weights of my model directly onto the notebook database, hence it will take you time to train the model in colab`. To run and interact with the model, please [click here](https://colab.research.google.com/drive/1y0Xdo-zKHfu_zA-AZRWnGkw8aNHImbiB?usp=sharing). The actual source-code of the can be found [here](/images/vanillaClassifier.py). 
+The chats we do are a valuble source of data that can be fed to NNs to produce fruitful outcomes. 
 
 # Security and Privacy Issues
 
@@ -94,3 +98,10 @@ Rarely, clicking the feature translates an English chat to English which repeats
 
 Tools like Burpsuite or wireshark can easily retrieve any packets containing sensitive data from web. Consequently, it is much easier to attack a deprecated unsecure HTTP server then a secure HTTPS server.
 
+
+
+
+
+##                                                                      Let Me Join!
+
+I want to be a part of the awesome team that put forth all these new features. I want to see and experience how things work behind the scenes. But most importantly, I want to help so that our agents can work with conveniently and with efficiency. 
